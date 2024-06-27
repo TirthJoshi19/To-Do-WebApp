@@ -1,0 +1,1 @@
+Developed a versatile todo app that allows users to manage tasks project-wise. Features include the ability to edit and rename cards and projects, delete tasks and projects, and mark tasks as complete or incomplete. Designed for efficient task organization and easy user interaction.
